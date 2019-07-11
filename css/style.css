@@ -74,6 +74,14 @@
   padding: 20px;
 }
 
+ div.kanan {
+  position: absolute;
+  right: 0;
+  width: 100px;
+  height: auto;
+  border: 3px solid blue;
+} 
+
 /* Fake image, just for this example */
 .fakeimg {
   background-color: #aaa;
