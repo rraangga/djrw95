@@ -75,8 +75,8 @@
 }
 
  div.kanan {
-  position: absolute;
-  right: 0;
+  position: relative;
+  right: 20px;
   width: 100px;
   height: auto;
   border: 3px solid blue;
